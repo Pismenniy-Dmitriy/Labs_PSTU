@@ -1,0 +1,5 @@
+﻿  Abitur.cpp
+  Lab2.cpp
+c:\users\sosla\source\repos\lab2\lab2\lab2.cpp(24): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Lab2.vcxproj -> C:\Users\sosla\source\repos\Lab2\Debug\Lab2.exe
