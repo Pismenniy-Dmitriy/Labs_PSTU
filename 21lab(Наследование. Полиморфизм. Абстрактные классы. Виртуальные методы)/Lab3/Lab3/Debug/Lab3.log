@@ -1,0 +1,6 @@
+﻿  Employee.cpp
+  Lab3.cpp
+c:\users\sosla\source\repos\lab3\lab3\lab3.cpp(16): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Person.cpp
+  Создание кода...
+  Lab3.vcxproj -> C:\Users\sosla\source\repos\Lab3\Debug\Lab3.exe
