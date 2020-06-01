@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+C:\Users\sosla\source\repos\Lab6\Lab6\Lab6.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\sosla\source\repos\Lab6\Lab6\List.h(58): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> C:\Users\sosla\source\repos\Lab6\Debug\Lab6.exe
