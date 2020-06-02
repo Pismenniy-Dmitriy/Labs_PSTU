@@ -1,0 +1,12 @@
+﻿  Dialog.cpp
+  Student.cpp
+C:\Users\sosla\source\repos\Lab7\Lab7\Student.h(14,26): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Lab7.cpp
+C:\Users\sosla\source\repos\Lab7\Lab7\Student.h(14,26): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\sosla\source\repos\Lab7\Lab7\Lab7.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Object.cpp
+  Person.cpp
+  Vector.cpp
+C:\Users\sosla\source\repos\Lab7\Lab7\Student.h(14,26): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Lab7.vcxproj -> C:\Users\sosla\source\repos\Lab7\Debug\Lab7.exe
