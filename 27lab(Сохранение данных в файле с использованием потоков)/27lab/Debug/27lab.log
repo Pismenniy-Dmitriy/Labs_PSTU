@@ -1,0 +1,7 @@
+﻿  27lab.cpp
+C:\Users\sosla\source\repos\27lab\27lab\27lab.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Money.cpp
+C:\Users\sosla\source\repos\27lab\27lab\Money.cpp(38,7): warning C4101: rez: неиспользованная локальная переменная
+C:\Users\sosla\source\repos\27lab\27lab\Money.cpp(50,7): warning C4101: rez: неиспользованная локальная переменная
+  Создание кода...
+  27lab.vcxproj -> C:\Users\sosla\source\repos\27lab\Debug\27lab.exe
