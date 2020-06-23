@@ -1,0 +1,9 @@
+﻿  28lab.cpp
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(75): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sosla\source\repos\28lab\28lab\28lab.cpp(91): warning C4018: >: несоответствие типов со знаком и без знака
+  28lab.vcxproj -> C:\Users\sosla\source\repos\28lab\Debug\28lab.exe

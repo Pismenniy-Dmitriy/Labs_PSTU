@@ -1,0 +1,43 @@
+﻿  28lab(2).cpp
+c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(14): error C2664: "void std::vector<Time,std::allocator<_Ty>>::push_back(_Ty &&)": невозможно преобразовать аргумент 1 из "int" в "const _Ty &"
+          with
+          [
+              _Ty=Time
+          ]
+  c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(14): note: Причина: невозможно преобразовать "int" в "const _Ty"
+          with
+          [
+              _Ty=Time
+          ]
+  c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(14): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(27): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(34): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "Vec" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(1419): note: может быть "std::vector<int,std::allocator<_Ty>> &std::vector<_Ty,std::allocator<_Ty>>::operator =(std::initializer_list<_Ty>)"
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(1398): note: или       "std::vector<int,std::allocator<_Ty>> &std::vector<_Ty,std::allocator<_Ty>>::operator =(const std::vector<_Ty,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(873): note: или       "std::vector<int,std::allocator<_Ty>> &std::vector<_Ty,std::allocator<_Ty>>::operator =(std::vector<_Ty,std::allocator<_Ty>> &&) noexcept(<expr>)"
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(34): note: при попытке сопоставить список аргументов "(std::vector<int,std::allocator<_Ty>>, Vec)"
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(35): error C2664: "void print_vector(Vec)": невозможно преобразовать аргумент 1 из "std::vector<int,std::allocator<_Ty>>" в "Vec"
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\sosla\source\repos\28lab\28lab(2)\28lab(2).cpp(35): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  Time.cpp
+  Создание кода...
